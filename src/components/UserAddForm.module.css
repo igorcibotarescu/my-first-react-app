@@ -1,0 +1,28 @@
+.user-add-form {
+    margin-bottom: 50px;
+      margin-top: 50px;
+      margin-left: 50px;
+      padding: 20px;
+      background: #8dec86bf;
+      border-radius: 50px;
+  }
+
+
+  .input-form {
+    padding: 5px 40px;
+    border: none;
+    box-shadow: -2px 2px 15px 4px blanchedalmond;
+    margin: 10px 20px;
+  }
+
+
+  .button-form {
+    width: 40%;
+    padding: 7px;
+    background: #9a96b9;
+    color: #f8f8ff;
+  }
+
+  .h2-form {
+    color: rgb(51, 51, 153);
+  }
