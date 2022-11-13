@@ -1,5 +1,4 @@
 import React from 'react';
-import './App.css';
 import UserList from './components/UserList';
 import UserAddForm from './components/UserAddForm';
 import TestLifeCycle from './components/learning/TestLifeCycle';
