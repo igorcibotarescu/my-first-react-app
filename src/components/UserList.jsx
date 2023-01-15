@@ -5,7 +5,7 @@ class UserList extends Component{
     render(){
         const {users} = this.props;
         return(
-            <div className="">
+            <div>
                 <p>User's List</p>
                 {users.map(item => <UserItem item = {item} key = {item.id}/>)}
             </div>
